@@ -22,6 +22,6 @@ code .
 ## Contributing
 pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-## license
+## License
 
 [**MIT**](https://choosealicense.com/licenses/mit/)
